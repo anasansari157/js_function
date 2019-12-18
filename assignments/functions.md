@@ -180,7 +180,7 @@ function min(x, y) {
 console.log(min(0, 10));
 //  0
 console.log(min(0, -10));
-// Your code here.
+// -10
 
 console.log(min(0, 10));
 //  0
